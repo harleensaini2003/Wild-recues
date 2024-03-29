@@ -1,0 +1,6 @@
+http://www.exampledoamin.com/index.html
+http://www.exampledoamin.com/about.html
+http://www.exampledoamin.com/partnership.html
+http://www.exampledoamin.com/gallery.html
+http://www.exampledoamin.com/faqs.html
+http://www.exampledoamin.com/contact.html
